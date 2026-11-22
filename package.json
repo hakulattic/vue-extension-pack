@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hakula139/vue-extension-pack"
+    "url": "https://github.com/hakulattic/vue-extension-pack"
   },
   "bugs": {
-    "url": "https://github.com/hakula139/vue-extension-pack/issues"
+    "url": "https://github.com/hakulattic/vue-extension-pack/issues"
   },
   "icon": "icon.png",
   "engines": {
